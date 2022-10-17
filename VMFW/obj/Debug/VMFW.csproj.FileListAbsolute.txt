@@ -1,0 +1,502 @@
+E:\尼日尔\code\VMFW\bin\Debug\VMFW.exe.config
+E:\尼日尔\code\VMFW\bin\Debug\VMFW.exe
+E:\尼日尔\code\VMFW\bin\Debug\VMFW.pdb
+E:\尼日尔\code\VMFW\bin\Debug\EntityFramework.dll
+E:\尼日尔\code\VMFW\bin\Debug\EntityFramework.SqlServer.dll
+E:\尼日尔\code\VMFW\bin\Debug\log4net.dll
+E:\尼日尔\code\VMFW\bin\Debug\MySql.Data.dll
+E:\尼日尔\code\VMFW\bin\Debug\mysql.data.entity.EF6.dll
+E:\尼日尔\code\VMFW\bin\Debug\EntityFramework.xml
+E:\尼日尔\code\VMFW\bin\Debug\EntityFramework.SqlServer.xml
+E:\尼日尔\code\VMFW\bin\Debug\log4net.xml
+E:\尼日尔\code\VMFW\obj\Debug\VMFW.Form1.resources
+E:\尼日尔\code\VMFW\obj\Debug\VMFW.Properties.Resources.resources
+E:\尼日尔\code\VMFW\obj\Debug\VMFW.csproj.GenerateResource.cache
+E:\尼日尔\code\VMFW\obj\Debug\VMFW.csproj.CoreCompileInputs.cache
+E:\尼日尔\code\VMFW\obj\Debug\VMFW.csproj.CopyComplete
+E:\尼日尔\code\VMFW\obj\Debug\VMFW.exe
+E:\尼日尔\code\VMFW\obj\Debug\VMFW.pdb
+E:\尼日尔\code\VMFW\obj\Debug\VMFW.Migrations.Initial.resources
+E:\尼日尔\code\VMFW\obj\Debug\VMFW.csproj.AssemblyReference.cache
+E:\尼日尔\code\VMFW\bin\Debug\Z.EntityFramework.Extensions.dll
+E:\尼日尔\code\VMFW\bin\Debug\Z.EntityFramework.Extensions.xml
+E:\nrr\code\VMFW-win\bin\Debug\App.config
+E:\nrr\code\VMFW-win\bin\Debug\VMFW.exe.config
+E:\nrr\code\VMFW-win\bin\Debug\VMFW.exe
+E:\nrr\code\VMFW-win\bin\Debug\VMFW.pdb
+E:\nrr\code\VMFW-win\bin\Debug\EntityFramework.dll
+E:\nrr\code\VMFW-win\bin\Debug\EntityFramework.SqlServer.dll
+E:\nrr\code\VMFW-win\bin\Debug\log4net.dll
+E:\nrr\code\VMFW-win\bin\Debug\MySql.Data.dll
+E:\nrr\code\VMFW-win\bin\Debug\mysql.data.entity.EF6.dll
+E:\nrr\code\VMFW-win\bin\Debug\Z.EntityFramework.Extensions.dll
+E:\nrr\code\VMFW-win\bin\Debug\EntityFramework.xml
+E:\nrr\code\VMFW-win\bin\Debug\EntityFramework.SqlServer.xml
+E:\nrr\code\VMFW-win\bin\Debug\log4net.xml
+E:\nrr\code\VMFW-win\bin\Debug\Z.EntityFramework.Extensions.xml
+E:\nrr\code\VMFW-win\obj\Debug\VMFW.Form1.resources
+E:\nrr\code\VMFW-win\obj\Debug\VMFW.Properties.Resources.resources
+E:\nrr\code\VMFW-win\obj\Debug\VMFW.csproj.GenerateResource.cache
+E:\nrr\code\VMFW-win\obj\Debug\VMFW.csproj.CoreCompileInputs.cache
+E:\nrr\code\VMFW-win\obj\Debug\VMFW.csproj.CopyComplete
+E:\nrr\code\VMFW-win\obj\Debug\VMFW.exe
+E:\nrr\code\VMFW-win\obj\Debug\VMFW.pdb
+E:\nrr\code\VMFW-win\bin\Debug\BouncyCastle.Crypto.dll
+E:\nrr\code\VMFW-win\bin\Debug\Google.Protobuf.dll
+E:\nrr\code\VMFW-win\bin\Debug\K4os.Compression.LZ4.dll
+E:\nrr\code\VMFW-win\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\nrr\code\VMFW-win\bin\Debug\K4os.Hash.xxHash.dll
+E:\nrr\code\VMFW-win\bin\Debug\MySql.Data.EntityFramework.dll
+E:\nrr\code\VMFW-win\bin\Debug\System.Buffers.dll
+E:\nrr\code\VMFW-win\bin\Debug\System.Memory.dll
+E:\nrr\code\VMFW-win\bin\Debug\System.Numerics.Vectors.dll
+E:\nrr\code\VMFW-win\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\nrr\code\VMFW-win\bin\Debug\Ubiety.Dns.Core.dll
+E:\nrr\code\VMFW-win\bin\Debug\ZstdNet.dll
+E:\nrr\code\VMFW-win\bin\Debug\Google.Protobuf.pdb
+E:\nrr\code\VMFW-win\bin\Debug\Google.Protobuf.xml
+E:\nrr\code\VMFW-win\bin\Debug\K4os.Compression.LZ4.xml
+E:\nrr\code\VMFW-win\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\nrr\code\VMFW-win\bin\Debug\K4os.Hash.xxHash.xml
+E:\nrr\code\VMFW-win\bin\Debug\MySql.Data.xml
+E:\nrr\code\VMFW-win\bin\Debug\MySql.Data.EntityFramework.xml
+E:\nrr\code\VMFW-win\bin\Debug\System.Buffers.xml
+E:\nrr\code\VMFW-win\bin\Debug\System.Memory.xml
+E:\nrr\code\VMFW-win\bin\Debug\System.Numerics.Vectors.xml
+E:\nrr\code\VMFW-win\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\nrr\code\VMFW-win\bin\Debug\CsvHelper.dll
+E:\nrr\code\VMFW-win\bin\Debug\InfluxDB.Client.Core.dll
+E:\nrr\code\VMFW-win\bin\Debug\InfluxDB.Client.dll
+E:\nrr\code\VMFW-win\bin\Debug\InfluxDB.Client.Linq.dll
+E:\nrr\code\VMFW-win\bin\Debug\JsonSubTypes.dll
+E:\nrr\code\VMFW-win\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\nrr\code\VMFW-win\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\nrr\code\VMFW-win\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+E:\nrr\code\VMFW-win\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\nrr\code\VMFW-win\bin\Debug\Microsoft.Net.Http.Headers.dll
+E:\nrr\code\VMFW-win\bin\Debug\Newtonsoft.Json.dll
+E:\nrr\code\VMFW-win\bin\Debug\NodaTime.dll
+E:\nrr\code\VMFW-win\bin\Debug\NodaTime.Serialization.JsonNet.dll
+E:\nrr\code\VMFW-win\bin\Debug\Remotion.Linq.dll
+E:\nrr\code\VMFW-win\bin\Debug\RestSharp.dll
+E:\nrr\code\VMFW-win\bin\Debug\System.Collections.Immutable.dll
+E:\nrr\code\VMFW-win\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\nrr\code\VMFW-win\bin\Debug\System.Reactive.dll
+E:\nrr\code\VMFW-win\bin\Debug\System.Security.AccessControl.dll
+E:\nrr\code\VMFW-win\bin\Debug\System.Security.Permissions.dll
+E:\nrr\code\VMFW-win\bin\Debug\System.Security.Principal.Windows.dll
+E:\nrr\code\VMFW-win\bin\Debug\System.Text.Encodings.Web.dll
+E:\nrr\code\VMFW-win\bin\Debug\System.Text.Json.dll
+E:\nrr\code\VMFW-win\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\nrr\code\VMFW-win\bin\Debug\System.ValueTuple.dll
+E:\nrr\code\VMFW-win\bin\Debug\CsvHelper.xml
+E:\nrr\code\VMFW-win\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\nrr\code\VMFW-win\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\nrr\code\VMFW-win\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+E:\nrr\code\VMFW-win\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\nrr\code\VMFW-win\bin\Debug\Microsoft.Net.Http.Headers.xml
+E:\nrr\code\VMFW-win\bin\Debug\Newtonsoft.Json.xml
+E:\nrr\code\VMFW-win\bin\Debug\NodaTime.pdb
+E:\nrr\code\VMFW-win\bin\Debug\NodaTime.xml
+E:\nrr\code\VMFW-win\bin\Debug\NodaTime.Serialization.JsonNet.pdb
+E:\nrr\code\VMFW-win\bin\Debug\NodaTime.Serialization.JsonNet.xml
+E:\nrr\code\VMFW-win\bin\Debug\Remotion.Linq.xml
+E:\nrr\code\VMFW-win\bin\Debug\RestSharp.xml
+E:\nrr\code\VMFW-win\bin\Debug\System.Collections.Immutable.xml
+E:\nrr\code\VMFW-win\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\nrr\code\VMFW-win\bin\Debug\System.Reactive.xml
+E:\nrr\code\VMFW-win\bin\Debug\System.Security.AccessControl.xml
+E:\nrr\code\VMFW-win\bin\Debug\System.Security.Permissions.xml
+E:\nrr\code\VMFW-win\bin\Debug\System.Security.Principal.Windows.xml
+E:\nrr\code\VMFW-win\bin\Debug\System.Text.Encodings.Web.xml
+E:\nrr\code\VMFW-win\bin\Debug\System.Text.Json.xml
+E:\nrr\code\VMFW-win\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\nrr\code\VMFW-win\bin\Debug\System.ValueTuple.xml
+E:\nrr\code\VMFW-win\obj\Debug\VMFW.Migrations.Initial.resources
+E:\nrr\code\VMFW-win\bin\Debug\System.Linq.Async.dll
+E:\nrr\code\VMFW-win\bin\Debug\System.Linq.Async.xml
+E:\nrr\code\VMFW-win\obj\Debug\VMFW.csproj.AssemblyReference.cache
+E:\nrr\code\VMFWMerge\VMFW-win\obj\Debug\VMFW.Form1.resources
+E:\nrr\code\VMFWMerge\VMFW-win\obj\Debug\VMFW.Migrations.Initial.resources
+E:\nrr\code\VMFWMerge\VMFW-win\obj\Debug\VMFW.Properties.Resources.resources
+E:\nrr\code\VMFWMerge\VMFW-win\obj\Debug\VMFW.csproj.GenerateResource.cache
+E:\nrr\code\VMFWMerge\VMFW-win\obj\Debug\VMFW.csproj.CoreCompileInputs.cache
+E:\nrr\code\VMFWMerge\VMFW-win\obj\Debug\VMFW.exe
+E:\nrr\code\VMFWMerge\VMFW-win\obj\Debug\VMFW.pdb
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\App.config
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\VMFW.exe.config
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\VMFW.exe
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\VMFW.pdb
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\BouncyCastle.Crypto.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\CsvHelper.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\EntityFramework.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\EntityFramework.SqlServer.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\Google.Protobuf.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\InfluxDB.Client.Core.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\InfluxDB.Client.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\InfluxDB.Client.Linq.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\JsonSubTypes.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\K4os.Compression.LZ4.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\K4os.Hash.xxHash.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\log4net.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\Microsoft.Net.Http.Headers.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\MySql.Data.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\mysql.data.entity.EF6.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\MySql.Data.EntityFramework.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\Newtonsoft.Json.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\NodaTime.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\NodaTime.Serialization.JsonNet.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\Remotion.Linq.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\RestSharp.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\System.Buffers.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\System.Collections.Immutable.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\System.Linq.Async.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\System.Memory.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\System.Numerics.Vectors.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\System.Reactive.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\System.Security.AccessControl.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\System.Security.Permissions.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\System.Security.Principal.Windows.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\System.Text.Encodings.Web.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\System.Text.Json.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\System.ValueTuple.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\Ubiety.Dns.Core.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\Z.EntityFramework.Extensions.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\ZstdNet.dll
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\CsvHelper.xml
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\EntityFramework.xml
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\EntityFramework.SqlServer.xml
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\Google.Protobuf.pdb
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\Google.Protobuf.xml
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\K4os.Compression.LZ4.xml
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\K4os.Hash.xxHash.xml
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\log4net.xml
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\Microsoft.Net.Http.Headers.xml
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\MySql.Data.xml
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\MySql.Data.EntityFramework.xml
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\Newtonsoft.Json.xml
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\NodaTime.pdb
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\NodaTime.xml
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\NodaTime.Serialization.JsonNet.pdb
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\NodaTime.Serialization.JsonNet.xml
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\Remotion.Linq.xml
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\RestSharp.xml
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\System.Buffers.xml
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\System.Collections.Immutable.xml
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\System.Linq.Async.xml
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\System.Memory.xml
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\System.Numerics.Vectors.xml
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\System.Reactive.xml
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\System.Security.AccessControl.xml
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\System.Security.Permissions.xml
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\System.Security.Principal.Windows.xml
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\System.Text.Encodings.Web.xml
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\System.Text.Json.xml
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\System.ValueTuple.xml
+E:\nrr\code\VMFWMerge\VMFW-win\bin\Debug\Z.EntityFramework.Extensions.xml
+E:\nrr\code\VMFWMerge\VMFW-win\obj\Debug\VMFW.csproj.CopyComplete
+E:\nrr\code\VMFWMerge\VMFW-win\obj\Debug\VMFW.csproj.AssemblyReference.cache
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\App.config
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\VMFW.exe.config
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\VMFW.exe
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\VMFW.pdb
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\BouncyCastle.Crypto.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\CsvHelper.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\EntityFramework.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\EntityFramework.SqlServer.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\Google.Protobuf.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\InfluxDB.Client.Core.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\InfluxDB.Client.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\InfluxDB.Client.Linq.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\JsonSubTypes.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\K4os.Compression.LZ4.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\K4os.Hash.xxHash.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\log4net.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\Microsoft.Net.Http.Headers.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\MySql.Data.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\mysql.data.entity.EF6.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\MySql.Data.EntityFramework.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\Newtonsoft.Json.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\NodaTime.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\NodaTime.Serialization.JsonNet.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\Remotion.Linq.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\RestSharp.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\System.Buffers.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\System.Collections.Immutable.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\System.Linq.Async.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\System.Memory.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\System.Numerics.Vectors.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\System.Reactive.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\System.Security.AccessControl.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\System.Security.Permissions.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\System.Security.Principal.Windows.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\System.Text.Encodings.Web.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\System.Text.Json.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\System.ValueTuple.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\Ubiety.Dns.Core.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\Z.EntityFramework.Extensions.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\ZstdNet.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\CsvHelper.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\EntityFramework.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\EntityFramework.SqlServer.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\Google.Protobuf.pdb
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\Google.Protobuf.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\K4os.Compression.LZ4.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\K4os.Hash.xxHash.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\log4net.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\Microsoft.Net.Http.Headers.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\MySql.Data.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\MySql.Data.EntityFramework.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\Newtonsoft.Json.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\NodaTime.pdb
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\NodaTime.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\NodaTime.Serialization.JsonNet.pdb
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\NodaTime.Serialization.JsonNet.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\Remotion.Linq.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\RestSharp.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\System.Buffers.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\System.Collections.Immutable.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\System.Linq.Async.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\System.Memory.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\System.Numerics.Vectors.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\System.Reactive.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\System.Security.AccessControl.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\System.Security.Permissions.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\System.Security.Principal.Windows.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\System.Text.Encodings.Web.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\System.Text.Json.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\System.ValueTuple.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\bin\Debug\Z.EntityFramework.Extensions.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\obj\Debug\VMFW.Form1.resources
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\obj\Debug\VMFW.Migrations.Initial.resources
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\obj\Debug\VMFW.Properties.Resources.resources
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\obj\Debug\VMFW.csproj.GenerateResource.cache
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\obj\Debug\VMFW.csproj.CoreCompileInputs.cache
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\obj\Debug\VMFW.csproj.CopyComplete
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\obj\Debug\VMFW.exe
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\obj\Debug\VMFW.pdb
+E:\nrr\code\VMFWMerge\VMFW-win - danwei\obj\Debug\VMFW.csproj.AssemblyReference.cache
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\App.config
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\VMFW.exe.config
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\VMFW.exe
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\VMFW.pdb
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\BouncyCastle.Crypto.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\CsvHelper.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\EntityFramework.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\EntityFramework.SqlServer.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\Google.Protobuf.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\InfluxDB.Client.Core.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\InfluxDB.Client.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\InfluxDB.Client.Linq.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\JsonSubTypes.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\K4os.Compression.LZ4.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\K4os.Hash.xxHash.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\log4net.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\Microsoft.Net.Http.Headers.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\MySql.Data.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\mysql.data.entity.EF6.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\MySql.Data.EntityFramework.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\Newtonsoft.Json.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\NodaTime.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\NodaTime.Serialization.JsonNet.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\Remotion.Linq.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\RestSharp.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\System.Buffers.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\System.Collections.Immutable.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\System.Linq.Async.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\System.Memory.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\System.Numerics.Vectors.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\System.Reactive.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\System.Security.AccessControl.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\System.Security.Permissions.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\System.Security.Principal.Windows.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\System.Text.Encodings.Web.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\System.Text.Json.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\System.ValueTuple.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\Ubiety.Dns.Core.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\Z.EntityFramework.Extensions.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\ZstdNet.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\CsvHelper.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\EntityFramework.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\EntityFramework.SqlServer.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\Google.Protobuf.pdb
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\Google.Protobuf.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\K4os.Compression.LZ4.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\K4os.Hash.xxHash.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\log4net.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\Microsoft.Net.Http.Headers.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\MySql.Data.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\MySql.Data.EntityFramework.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\Newtonsoft.Json.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\NodaTime.pdb
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\NodaTime.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\NodaTime.Serialization.JsonNet.pdb
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\NodaTime.Serialization.JsonNet.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\Remotion.Linq.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\RestSharp.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\System.Buffers.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\System.Collections.Immutable.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\System.Linq.Async.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\System.Memory.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\System.Numerics.Vectors.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\System.Reactive.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\System.Security.AccessControl.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\System.Security.Permissions.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\System.Security.Principal.Windows.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\System.Text.Encodings.Web.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\System.Text.Json.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\System.ValueTuple.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\bin\Debug\Z.EntityFramework.Extensions.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\obj\Debug\VMFW.csproj.AssemblyReference.cache
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\obj\Debug\VMFW.Form1.resources
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\obj\Debug\VMFW.Migrations.Initial.resources
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\obj\Debug\VMFW.Properties.Resources.resources
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\obj\Debug\VMFW.csproj.GenerateResource.cache
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\obj\Debug\VMFW.csproj.CoreCompileInputs.cache
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\obj\Debug\VMFW.csproj.CopyComplete
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\obj\Debug\VMFW.exe
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 2\obj\Debug\VMFW.pdb
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\App.config
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\VMFW.exe.config
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\VMFW.exe
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\VMFW.pdb
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\BouncyCastle.Crypto.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\CsvHelper.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\EntityFramework.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\EntityFramework.SqlServer.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\Google.Protobuf.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\InfluxDB.Client.Core.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\InfluxDB.Client.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\InfluxDB.Client.Linq.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\JsonSubTypes.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\K4os.Compression.LZ4.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\K4os.Hash.xxHash.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\log4net.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\Microsoft.Net.Http.Headers.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\MySql.Data.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\mysql.data.entity.EF6.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\MySql.Data.EntityFramework.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\Newtonsoft.Json.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\NodaTime.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\NodaTime.Serialization.JsonNet.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\Remotion.Linq.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\RestSharp.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\System.Buffers.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\System.Collections.Immutable.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\System.Linq.Async.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\System.Memory.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\System.Numerics.Vectors.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\System.Reactive.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\System.Security.AccessControl.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\System.Security.Permissions.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\System.Security.Principal.Windows.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\System.Text.Encodings.Web.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\System.Text.Json.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\System.ValueTuple.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\Ubiety.Dns.Core.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\Z.EntityFramework.Extensions.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\ZstdNet.dll
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\CsvHelper.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\EntityFramework.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\EntityFramework.SqlServer.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\Google.Protobuf.pdb
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\Google.Protobuf.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\K4os.Compression.LZ4.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\K4os.Hash.xxHash.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\log4net.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\Microsoft.Net.Http.Headers.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\MySql.Data.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\MySql.Data.EntityFramework.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\Newtonsoft.Json.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\NodaTime.pdb
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\NodaTime.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\NodaTime.Serialization.JsonNet.pdb
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\NodaTime.Serialization.JsonNet.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\Remotion.Linq.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\RestSharp.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\System.Buffers.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\System.Collections.Immutable.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\System.Linq.Async.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\System.Memory.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\System.Numerics.Vectors.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\System.Reactive.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\System.Security.AccessControl.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\System.Security.Permissions.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\System.Security.Principal.Windows.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\System.Text.Encodings.Web.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\System.Text.Json.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\System.ValueTuple.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\bin\Debug\Z.EntityFramework.Extensions.xml
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\obj\Debug\VMFW.csproj.AssemblyReference.cache
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\obj\Debug\VMFW.Form1.resources
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\obj\Debug\VMFW.Migrations.Initial.resources
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\obj\Debug\VMFW.Properties.Resources.resources
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\obj\Debug\VMFW.csproj.GenerateResource.cache
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\obj\Debug\VMFW.csproj.CoreCompileInputs.cache
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\obj\Debug\VMFW.csproj.CopyComplete
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\obj\Debug\VMFW.exe
+E:\nrr\code\VMFWMerge\VMFW-win - danwei - 3\obj\Debug\VMFW.pdb

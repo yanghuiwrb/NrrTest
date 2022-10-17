@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configuration>
+  <!--固定点-->
+  <FixPoint>
+    <!--水密度(kg/m3)-->
+    <WaterDensity>ρw</WaterDensity>
+    <!--原油密度(kg/m3)-->
+    <CrudeDensity>ρo</CrudeDensity>
+    <!--节流器开口直径(mm)-->
+    <ThrottleOpeningDiameter>d</ThrottleOpeningDiameter>
+    <!--管线直径(mm)-->
+    <PipeDiameter>D</PipeDiameter>
+  </FixPoint>
+  
+  <!--相对静态点-->
+  <StaticPoint>
+    <!--工况下甲烷气体粘度(kg/(m*s))-->
+    <MethaneGasViscosity>ug</MethaneGasViscosity>
+    <!--工况下水粘度（kg/(m*s)）-->
+    <WaterViscosity>uw</WaterViscosity>
+    <!--原油粘度（kg/(m*s)）-->
+    <CrudeViscosity>uo</CrudeViscosity>
+    <!--甲烷气体密度（kg/m3）-->
+    <MethaneGasDensity>ρg</MethaneGasDensity>
+    <!--油嘴上游平均压力(Pa)-->
+    <NozzleMeanUpstreamPressure>P</NozzleMeanUpstreamPressure>
+    <!--油田现场平均温度(℃)-->
+    <FieldMeanTemperature>To</FieldMeanTemperature>
+    <!--油嘴处平均温度(℃)-->
+    <NozzleMeanTemperature>T</NozzleMeanTemperature>
+    <!--含水率-->
+    <MoistureContent>fw</MoistureContent>
+    <!--生产气油比-->
+    <ProducedGOR>Rρ</ProducedGOR>
+    <!--油嘴上游溶解气油比-->
+    <NozzleUpstreamDissolvedGOR>Rs</NozzleUpstreamDissolvedGOR>
+    <!--标定车标定产油量(t/d)-->
+    <CalibrateOil>co</CalibrateOil>
+    <!--标定车标定产气量(calibrate gas)(t/d)-->
+    <CalibrateGas>cg</CalibrateGas>
+    <!--标定车标定产水量(calibrate water)(t/d)-->
+    <CalibrateWater>cw</CalibrateWater>
+    <!--标定车标定产液量(calibrate liquid)(t/d)-->
+    <CalibrateLiquid>cl</CalibrateLiquid>
+  </StaticPoint>
+  
+  <!--实时动态点-->
+  <StaticPoint>
+     <!--油嘴上游压力（Pa) 多个上游压力，以逗号作为分隔符，类似于1.2,1.3,....,1.4-->
+    <NozzleUpstreamPressure>P1s</NozzleUpstreamPressure>
+    <!--油嘴下游压力（Pa) 多个下游压力，以逗号作为分隔符，类似于1.2,1.3,....,1.4-->
+    <NozzleDownstreamPressure>P2s</NozzleDownstreamPressure>
+  </StaticPoint>
+  
+  <!--中间输入点-->
+  <InternalPoint>
+     <!--气体等熵指数-->
+    <GasIsentropicExponent>K</GasIsentropicExponent>
+    <!--雷诺数-->
+    <ReynoldsNumber>Re</ReynoldsNumber>
+    <!--体积含气率-->
+    <VolumeGasHoldup>y</VolumeGasHoldup>
+    <!--产油量标定系数-->
+    <OilProductionCalibrationCoefficient>a1</OilProductionCalibrationCoefficient>
+    <!--产水量标定系数-->
+    <WaterProductionCalibrationCoefficient>a2</WaterProductionCalibrationCoefficient>
+    <!--产气量标定系数-->
+    <GasProductionCalibrationCoefficient>a3</GasProductionCalibrationCoefficient>
+    <!--产液量标定系数-->
+    <LiquidProductionCalibrationCoefficient>a4</LiquidProductionCalibrationCoefficient>
+  </InternalPoint>
+  
+  <!--产量输出点-->
+  <OutPoint>
+     <!--实时产油量-->
+    <RealOilProduction>Qol</RealOilProduction>
+    <!--实时产气量-->
+    <RealGasProduction>Qgl</RealGasProduction>
+    <!--实时产水量-->
+    <RealWaterProduction>Qwl</RealWaterProduction>
+    <!--实时产液量-->
+    <RealLiquidProduction>Ql</RealLiquidProduction>
+    <!--最终产油量-->
+    <FinalOilProduction>QO</FinalOilProduction>
+    <!--最终产气量-->
+    <FinalGasProduction>QG</FinalGasProduction>
+    <!--最终产水量-->
+    <FinalWaterProduction>QW</FinalWaterProduction>
+    <!--最终产液量-->
+    <FinalLiquildProduction>QL</FinalLiquildProduction>
+    <!--产油量标定系数--><!--
+    <OilProductionCalibrationCoefficient>a1</OilProductionCalibrationCoefficient>
+    --><!--产水量标定系数--><!--
+    <WaterProductionCalibrationCoefficient>a2</WaterProductionCalibrationCoefficient>
+    --><!--产气量标定系数--><!--
+    <GasProductionCalibrationCoefficient>a3</GasProductionCalibrationCoefficient>
+    --><!--产液量标定系数--><!--
+    <LiquidProductionCalibrationCoefficient>a4</LiquidProductionCalibrationCoefficient>-->
+  </OutPoint>
+
+</Configuration>

@@ -1,0 +1,252 @@
+﻿using log4net;
+using OPCAutomation;
+using System;
+using System.Collections.Generic;
+using System.Configuration;
+using System.Diagnostics;
+using System.Linq;
+using System.Net;
+using System.Reflection;
+using System.Text;
+using System.Threading;
+using System.Threading.Tasks;
+using VMFW.Operate;
+using VMFW.MySqlEntity;
+using VMFW.Atribute;
+using VMFW.Helper;
+
+namespace VMFW.Communication
+{
+    public class OPCClient
+    {
+        //private static ILog log = LogManager.GetLogger(typeof(VFMOperator));
+        private OPCServer opcServer;
+        private int updateRate;
+
+        //存放clienthandle和opcitem的映射关系，方便数据订阅到达时，知道是哪个ipcitem
+        private Dictionary<int, OPCItem> dics;
+
+        //存放每个OPCGroup读取的次数关系
+        private Dictionary<OPCGroup, ReceDataOptor> rGroups;
+
+        //存放读取OPCGroup,与写入OPCGroup的对应关系
+        private Dictionary<OPCGroup, OPCGroup> rwGroups;
+
+        //记录写入group和其item，主要是为了记录顺序。
+        private Dictionary<OPCGroup, List<int>> groupServerHandles;
+
+        public OPCClient()
+        {
+            opcServer = null;
+            updateRate = Convert.ToInt32(ConfigurationManager.AppSettings.Get("ClientUpdateRate"));
+            dics = new Dictionary<int, OPCItem>();
+            rGroups = new Dictionary<OPCGroup, ReceDataOptor>();
+            rwGroups = new Dictionary<OPCGroup, OPCGroup>();
+            groupServerHandles = new Dictionary<OPCGroup, List<int>>();
+        }
+
+        /// <summary>
+        /// 根据ip获取opc server的名称
+        /// </summary>
+        /// <param name="ip"></param>
+        /// <returns></returns>
+        public List<string> GetServerName(string ip)
+        {
+            IPHostEntry host = Dns.GetHostEntry(ip);
+            try
+            {
+                if (opcServer == null)
+                {
+                    opcServer = new OPCServer();
+                }
+                object serverList = opcServer.GetOPCServers(host.HostName);
+                List<string> ret = new List<string>();
+                foreach (string item in (Array)serverList)
+                {
+                    ret.Add(item);
+                }
+                return ret;
+
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+
+        }
+
+        /// <summary>
+        /// 连接到opcserver，如果连接不上，进行10次重连后，返回失败
+        /// </summary>
+        /// <returns></returns>
+        public bool Connect()
+        {
+            string ip = (string)ConfigurationManager.AppSettings.Get("OPCServerIp");
+            if (String.IsNullOrEmpty(ip.Trim()))
+            {
+                ip = "127.0.0.1";
+            }
+
+            string serverName = (string)ConfigurationManager.AppSettings.Get("OPCServerName");
+            if (String.IsNullOrEmpty(serverName.Trim()))
+            {
+                serverName = (string)GetServerName(ip)[0];
+            }
+            else
+            {
+                if (opcServer == null)
+                {
+                    opcServer = new OPCServer();
+                }
+            }
+            int conTime = 0;
+            while (conTime < 10)
+            {
+                opcServer.Connect(serverName, ip);
+                if (opcServer.ServerState == (int)OPCServerState.OPCRunning)
+                {
+                    LogHelper.Log.Info($"连接到ip:{ip}，OPC服务器名称为{serverName}成功");
+                    return true;
+                }
+                LogHelper.Log.Info($"连接到ip:{ip}，OPC服务器名称为{serverName}失败，状态为：{opcServer.ServerState}");
+                conTime++;
+                Thread.Sleep(100);
+            }
+            return false;
+        }
+
+        /// <summary>
+        /// 在opc client中配置点表
+        /// </summary>
+        /// <param name="pts"></param>
+        public void SetPoints(List<PointTB> stations)
+        {
+            var groups = opcServer.OPCGroups;
+            groups.RemoveAll();
+            OPCGroup groupR = null;
+            OPCGroup groupW = null;
+            OPCItem opcItemR = null;
+            OPCItem opcItemW = null;
+            int clientHandle = 0;
+
+            //List<string> outPtsName = new List<string> { "rl", "r", "x", "ul", "u", "E", "C", "a1", "a2", "a3", "a4", "Qol", "Qgl", "Qwl", "Ql", "Dgl", "Dol", "Dwl", "Dl", "Mgl", "Mol", "Mwl", "Ml", "Ygl", "Yol", "Ywl", "Yl", "EMgl", "EMol", "EMwl", "EMl", "EHgl", "EHol", "EHwl", "EHl", "EHgl", "EHol", "EHwl", "EHl" };
+            try
+            {
+                foreach (var s in stations)
+                {
+                    var staionName = s.stationName;
+
+                    //配置组
+                    groupR = groups.Add(staionName);
+                    groupW = groups.Add($"{staionName}W");
+
+                    var type = s.GetType();
+                    var psInfo = type.GetProperties();
+
+                    List<int> rServerHandleList = new List<int>();
+                    List<int> wServerHandleList = new List<int>();
+
+                    //配置组中的点
+                    foreach (var pInfo in psInfo)
+                    {
+                        if (pInfo.Name.Equals("stationName"))
+                        {
+                            continue;
+                        }
+
+                        //else if (outPtsName.Contains(pInfo.Name))//需要写入opc的点名
+                        var attributes = pInfo.GetCustomAttributes(typeof(OperateFlagAttribute));
+                        if (attributes.Count() > 0 && ((OperateFlagAttribute)attributes.FirstOrDefault()).IsWrite)
+                        {
+                            opcItemW = groupW.OPCItems.AddItem($"{staionName}!{pInfo.GetValue(s)}", ++clientHandle);
+                            LogHelper.Log.Info($"client 添加点：{pInfo.Name}-{pInfo.GetValue(s)}成功");
+                            wServerHandleList.Add(opcItemW.ServerHandle);
+                            //Console.WriteLine(pInfo.Name + "-" + opcItemW.ServerHandle);
+                            //continue;
+                        }
+                        else
+                        {
+                            //在opc中配置需要订阅的点名信息
+                            opcItemR = groupR.OPCItems.AddItem($"{staionName}!{pInfo.GetValue(s)}", ++clientHandle);
+                            LogHelper.Log.Info($"client 添加点：{pInfo.Name}-{pInfo.GetValue(s)}成功");
+                            rServerHandleList.Add(opcItemR.ServerHandle);
+                            dics.Add(clientHandle, opcItemR);
+                        }
+                    }
+                    SetReadGroupProperty(groupR);
+                    SetWriteGroupProperty(groupW);
+                    rGroups.Add(groupR, new ReceDataOptor(/*log*/));
+                    rwGroups.Add(groupR, groupW);
+                    groupServerHandles.Add(groupW, wServerHandleList);
+                    groupServerHandles.Add(groupR, rServerHandleList);
+                }
+
+                LogHelper.Log.Info("配点完成！");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+                LogHelper.Log.Info("配点失败！");
+            }
+
+
+
+        }
+
+        private void SetReadGroupProperty(OPCGroup group)
+        {
+            group.UpdateRate = updateRate;
+            group.DeadBand = 0;
+            group.IsSubscribed = true;
+            group.IsActive = true;
+            group.DataChange += KepGroup_DataChange;
+        }
+
+        private void SetWriteGroupProperty(OPCGroup group)
+        {
+            group.IsSubscribed = true;
+            group.IsActive = true;
+        }
+
+        /// <summary>
+        /// 数据订阅方法
+        /// </summary>
+        /// <param name="TransactionID">处理ID</param>
+        /// <param name="NumItems">项个数</param>
+        /// <param name="ClientHandles">OPC客户端的句柄</param>
+        /// <param name="ItemValues">节点的值</param>
+        /// <param name="Qualities">节点的质量</param>
+        /// <param name="TimeStamps">时间戳</param>
+        private void KepGroup_DataChange(int TransactionID, int NumItems, ref Array ClientHandles, ref Array ItemValues, ref Array Qualities, ref Array TimeStamps)
+        {
+            //Console.WriteLine("TransactionID:" + TransactionID);
+            if (NumItems > 0)
+            {
+                OPCItem item;
+                int index = (int)ClientHandles.GetValue(1);
+                dics.TryGetValue(index, out item);
+
+                OPCGroup rGroup = item.Parent;
+                ReceDataOptor dataInfo;
+                rGroups.TryGetValue(rGroup, out dataInfo);
+
+                OPCGroup wGroup;
+                rwGroups.TryGetValue(rGroup, out wGroup);
+
+                List<int> wServerHandles;
+                List<int> rServerHandles;
+                groupServerHandles.TryGetValue(wGroup, out wServerHandles);
+                groupServerHandles.TryGetValue(rGroup, out rServerHandles);
+                //Console.WriteLine(item.TimeStamp + " : " + DateTime.Now);
+
+                Stopwatch sp = new Stopwatch();
+                sp.Start();
+                Task.Run(async () => await dataInfo.AddPoint(rGroup, rServerHandles, wGroup, wServerHandles, item.TimeStamp, 1/*60 / (updateRate / 1000)*/));
+                sp.Stop();
+                Console.WriteLine(sp.ElapsedMilliseconds);
+            }
+        }
+
+       
+    }
+}
